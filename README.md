@@ -2,7 +2,6 @@
 
 ## A. Identitas
 
-## Identitas
 - Nama: Chelsea Febiola br Sebayang
 - NIM: 4243250015
 - Mata Kuliah: Pemrograman Mobile
