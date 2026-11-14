@@ -75,8 +75,6 @@ classDiagram
 
 ## D. Tangkapan Layar Keluaran Program
 
-Simpan tangkapan layar hasil program pada folder `screenshots` dengan nama `output.png`.
-
 ![Tangkapan layar keluaran program](screenshots/output.png)
 
 ## E. Penjelasan Penerapan Konsep OOP dan Asynchronous
