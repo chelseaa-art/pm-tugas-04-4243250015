@@ -2,15 +2,12 @@
 
 ## A. Identitas
 
-| Keterangan | Identitas |
-|---|---|
-| Nama | Chelsea Febiola br Sebayang |
-| NIM | 4243250015 |
-| Program Studi | Ilmu Komputer |
-| Fakultas | Matematika dan Ilmu Pengetahuan Alam |
-| Universitas | Universitas Negeri Medan |
-| Mata Kuliah | Pemrograman Mobile |
-| Tugas | Tugas Rutin 4 – Sistem Parkir Kampus |
+## Identitas
+- Nama: Chelsea Febiola br Sebayang
+- NIM: 4243250015
+- Mata Kuliah: Pemrograman Mobile
+- Program Studi: Ilmu Komputer
+- Tugas: Pertemuan 4
 
 ## B. Deskripsi Program
 
